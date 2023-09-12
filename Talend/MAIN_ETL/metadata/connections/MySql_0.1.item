@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_wcTjsFDbEe6sioukaEIVSw" name="MySql" id="_10_8IFDaEe6sioukaEIVSw" label="MySql" dataPackage="_wdKfUFDbEe6sioukaEIVSw" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/Mercedes?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="enc:system.encryption.key.v1:coRxn27zkdpy/j93w+Jm+hW8PF4Yd1i0RxTQXQsEQxA=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="Mercedes" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_wcTjsVDbEe6sioukaEIVSw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_wcr-MFDbEe6sioukaEIVSw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_wcslQFDbEe6sioukaEIVSw" tag="Status" value=""/>
+    <taggedValue xmi:id="_wcslQVDbEe6sioukaEIVSw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_wcslQlDbEe6sioukaEIVSw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_wcslQ1DbEe6sioukaEIVSw" tag="Description" value=""/>
+    <taggedValue xmi:id="_wcslRFDbEe6sioukaEIVSw" tag="Author" value=""/>
+    <taggedValue xmi:id="_wcslRVDbEe6sioukaEIVSw" tag="otherParameter"/>
+    <taggedValue xmi:id="_wc9rAFDbEe6sioukaEIVSw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_wc9rAVDbEe6sioukaEIVSw" tag="DB ProductVersion" value="8.0.34"/>
+    <taggedValue xmi:id="_wc9rAlDbEe6sioukaEIVSw" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_wcTjslDbEe6sioukaEIVSw" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_wdKfUFDbEe6sioukaEIVSw" name="Mercedes" dataManager="_wcTjsFDbEe6sioukaEIVSw"/>
+</xmi:XMI>
